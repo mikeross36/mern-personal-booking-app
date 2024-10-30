@@ -1,0 +1,207 @@
+[{
+  "_id": {
+    "$oid": "670f6eec56f8fbb2503a2872"
+  },
+  "user": {
+    "$oid": "6707c7d135cb3aa6f19cda3c"
+  },
+  "name": "Horizon 777",
+  "city": "Saint-Siméon",
+  "country": "Canada",
+  "description": "Located in Saint-Siméon, within 24 miles of Park les Sources Joyeuses de la Malbaie and 21 miles of Charlevoix Museum, Horizon 777 has accommodations with a garden and free WiFi throughout the property as well as free private parking for guests who drive. The property is around 16 miles from Village des Lilas, 21 miles from Golf Murray Bay and 22 miles from Casino Charlevoix. Some rooms at the property feature a balcony with a river view.",
+  "category": "Budget",
+  "adults": 2,
+  "kids": 0,
+  "amenities": [
+    "Free WiFi",
+    "Parking"
+  ],
+  "pricePerNight": 99,
+  "starRating": 3,
+  "imageUrls": [
+    "https://res.cloudinary.com/dmgt5b5mr/image/upload/v1727940749/Beaverton_Ontario_-_Canada_wkcang.jpg"
+  ],
+  "lastUpdated": {
+    "$date": "2024-10-18T07:20:56.871Z"
+  },
+  "createdAt": {
+    "$date": "2024-10-16T07:44:44.645Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:20:56.872Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6710d90ae38e782546828adb"
+  },
+  "user": {
+    "$oid": "6707c7d135cb3aa6f19cda3c"
+  },
+  "name": "Holiday Inn Express & Suites",
+  "city": "Collingwood ",
+  "country": "Canada",
+  "description": "Holiday Inn Express & Suites - Collingwood is located in Collingwood, within one mile of Sunset Point Beach and 1.2 miles of Collingwood Eddie Bush Memorial Arena. With a fitness center, the 3-star hotel has air-conditioned rooms with free WiFi, each with a private bathroom. Craigleith Provincial Park is 9.3 miles from the hotel and Pretty River Valley Provincial Park is 10 miles away.",
+  "category": "Business",
+  "adults": 2,
+  "kids": 0,
+  "amenities": [
+    "Free WiFi",
+    "Parking"
+  ],
+  "pricePerNight": 150,
+  "starRating": 4,
+  "imageUrls": [
+    "https://res.cloudinary.com/dmgt5b5mr/image/upload/v1727940790/Raffles_Hotels_Resorts_Singapore_qvhl0g.jpg"
+  ],
+  "lastUpdated": {
+    "$date": "2024-10-17T09:29:46.954Z"
+  },
+  "createdAt": {
+    "$date": "2024-10-17T09:29:46.960Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T09:29:46.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6710d95ce38e782546828ae0"
+  },
+  "user": {
+    "$oid": "6707c7d135cb3aa6f19cda3c"
+  },
+  "name": "Le Relais des Hautes Gorges is",
+  "city": " Saint-Aimé-des-Lacs",
+  "country": "Charlevoix Region",
+  "description": "You might be eligible for a Genius discount at Le Relais des Hautes Gorges. Sign in to check if a Genius discount is available for your selected dates. Genius discounts at this property are subject to booking dates, stay dates, and other available deals. Le Relais des Hautes Gorges is located in Saint-Aimé-des-Lacs in the Charlevoix Region, 9.9 mi from Parc National des Hautes-Gorges-de-la-Rivière-Malbaie",
+  "category": "Luxury",
+  "adults": 2,
+  "kids": 2,
+  "amenities": [
+    "Free WiFi",
+    "Parking",
+    "Spa"
+  ],
+  "pricePerNight": 199,
+  "starRating": 4,
+  "imageUrls": [
+    "https://res.cloudinary.com/dmgt5b5mr/image/upload/v1727940781/Hotel_Historic_Ontario_Canada_dkomkg.jpg"
+  ],
+  "lastUpdated": {
+    "$date": "2024-10-17T09:31:08.942Z"
+  },
+  "createdAt": {
+    "$date": "2024-10-17T09:31:08.943Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T09:31:08.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6710d99de38e782546828ae5"
+  },
+  "user": {
+    "$oid": "6707c7d135cb3aa6f19cda3c"
+  },
+  "name": "Les Condos Du Lac Taureau",
+  "city": "Saint-Michel-des-Saints",
+  "country": "Canada",
+  "description": "Les Condos Du Lac Taureau- Rooms & Condos features a shared lounge, terrace, a restaurant and bar in Saint-Michel-des-Saints. A hot tub and a ski equipment rental service are available for guests. The property has a seasonal outdoor pool, indoor pool, sauna and garden. The resort will provide guests with air-conditioned rooms with a fridge, a microwave, a coffee machine, a shower, free toiletries, a flat-screen TV with cable channels and DVD player. Les Condos Du Lac Taureau- Rooms & Condos has certain accommodations that have a balcony and lake view, and rooms have a private bathroom and a closet. At the accommodation each room includes bed linen and towels",
+  "category": "Pet Friendly",
+  "adults": 2,
+  "kids": 0,
+  "amenities": [
+    "Free WiFi",
+    "Outdoor Pool"
+  ],
+  "pricePerNight": 200,
+  "starRating": 3,
+  "imageUrls": [
+    "https://res.cloudinary.com/dmgt5b5mr/image/upload/v1727940786/Hotel_Storchen_Zurich_Switzerland_lplvty.jpg"
+  ],
+  "lastUpdated": {
+    "$date": "2024-10-17T09:32:13.906Z"
+  },
+  "createdAt": {
+    "$date": "2024-10-17T09:32:13.907Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T09:32:13.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6710d9d8e38e782546828aea"
+  },
+  "user": {
+    "$oid": "6707c7d135cb3aa6f19cda3c"
+  },
+  "name": "Brewster Mountain Lodge",
+  "city": "Banff",
+  "country": "Canada",
+  "description": "Brewster Mountain Lodge is centrally located in downtown Banff. Log furnishings, western décor, and historic photos from the Brewster Family define the interior of the lodge. Free WiFi and a daily continental breakfast are included. Each room is equipped with a flat-screen cable TV, fan, ironing facilities, hair dryer, kettle and coffee machine. The private bathroom comes with a shower, bath and free toiletries. At Brewster Mountain Lodge you will find a 24-hour front desk. Other facilities offered at the property include a tour desk, ski storage, and shops on site.",
+  "category": "Luxury",
+  "adults": 2,
+  "kids": 0,
+  "amenities": [
+    "Free WiFi",
+    "Parking",
+    "Airport Shuttle"
+  ],
+  "pricePerNight": 250,
+  "starRating": 5,
+  "imageUrls": [
+    "https://res.cloudinary.com/dmgt5b5mr/image/upload/v1727940773/Hotel_Gletscher_Belvedere_znl72n.jpg"
+  ],
+  "lastUpdated": {
+    "$date": "2024-10-17T09:33:12.539Z"
+  },
+  "createdAt": {
+    "$date": "2024-10-17T09:33:12.540Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T09:33:12.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6714a864fa046d64cac5c4df"
+  },
+  "user": {
+    "$oid": "6707c7d135cb3aa6f19cda3c"
+  },
+  "name": "La Posada de Chacón",
+  "city": "Old Havana",
+  "country": "Cuba",
+  "description": "Hidden behind a colorful facade on a quieter yet charming street in Old Havana, La Posada de Chacón is a beautiful little gem of a hotel in the heart of the city. The hotel’s entrance is home to a restaurant and bar (with great food!), while just beyond awaits a boutique space with friendly staff and first-rate service – you’ll know them by name and smile within just a few hours of your arrival. While rooms don’t keep much of the hotel’s historic character and charm, they’re quite comfortable and quiet, with all the amenities and excellent service you’re looking for. ",
+  "category": "Luxury",
+  "adults": 2,
+  "kids": 2,
+  "amenities": [
+    "Free WiFi",
+    "Parking",
+    "Family Rooms"
+  ],
+  "pricePerNight": 200,
+  "starRating": 4,
+  "imageUrls": [
+    "https://res.cloudinary.com/dmgt5b5mr/image/upload/v1727940758/Hotel_Don_Cesar_-_Havana_-_Cuba_bf4fnh.jpg"
+  ],
+  "lastUpdated": {
+    "$date": "2024-10-20T06:51:16.238Z"
+  },
+  "createdAt": {
+    "$date": "2024-10-20T06:51:16.243Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-20T06:51:16.243Z"
+  },
+  "__v": 0
+}]

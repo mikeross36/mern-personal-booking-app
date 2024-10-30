@@ -1,0 +1,15 @@
+export enum ERoutes {
+  home = "/",
+  login = "/login",
+  register = "/register",
+  resetpassword = "/reset-password",
+  verify = "/verify",
+  useraccount = "/user-account",
+  myhotels = "/my-hotels",
+  addhotel = "/add-hotel",
+  edithotel = "/edit-hotel",
+  search = "/search",
+  hoteldetails = "/hotel-details",
+  hotel = "/hotel",
+  mybookings = "/mybookings",
+}

@@ -1,0 +1,18 @@
+{
+  "name": "personal-booking-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "build": "cd server && npm install && npm run build && cd ../client && npm install npm run build",
+    "start": "TG_ALLOW_MIXED=ALLOW node server/build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "concurrently": "^9.0.1"
+  }
+}
